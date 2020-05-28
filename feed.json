@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Asian Dishes",
     "description": "",
-    "home_page_url": "https://shinggo9000.github.io/gh-pages",
-    "feed_url": "https://shinggo9000.github.io/gh-pages/feed.json",
+    "home_page_url": "https://shinggo8000.github.io/Publii",
+    "feed_url": "https://shinggo8000.github.io/Publii/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ben Ho"
     },
     "items": [
         {
-            "id": "https://shinggo9000.github.io/gh-pages/this-is-first-post.html",
-            "url": "https://shinggo9000.github.io/gh-pages/this-is-first-post.html",
+            "id": "https://shinggo8000.github.io/Publii/this-is-first-post.html",
+            "url": "https://shinggo8000.github.io/Publii/this-is-first-post.html",
             "title": "This is first post",
-            "summary": "[{\"id\":1590694047118,\"type\":\"publii-image\",\"content\":{\"image\":\"https://shinggo9000.github.io/gh-pages/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg\",\"imageHeight\":535,\"imageWidth\":720,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694062769,\"type\":\"publii-paragraph\",\"content\":\"This is a first post! Good!\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1590694047118,\"type\":\"publii-image\",\"content\":{\"image\":\"https://shinggo9000.github.io/gh-pages/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg\",\"imageHeight\":535,\"imageWidth\":720,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694062769,\"type\":\"publii-paragraph\",\"content\":\"This is a first post! Good!\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "image": "https://shinggo9000.github.io/gh-pages/media/posts/1/bonfire-burning-burnt-campfire-266604-1.jpg",
+            "summary": "[{\"id\":1590694047118,\"type\":\"publii-image\",\"content\":{\"image\":\"https://shinggo8000.github.io/Publii/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg\",\"imageHeight\":535,\"imageWidth\":720,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694062769,\"type\":\"publii-paragraph\",\"content\":\"This is a first post! Good!\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "content_html": "[{\"id\":1590694047118,\"type\":\"publii-image\",\"content\":{\"image\":\"https://shinggo8000.github.io/Publii/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg\",\"imageHeight\":535,\"imageWidth\":720,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590694062769,\"type\":\"publii-paragraph\",\"content\":\"This is a first post! Good!\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "image": "https://shinggo8000.github.io/Publii/media/posts/1/bonfire-burning-burnt-campfire-266604-1.jpg",
             "author": {
                 "name": "Ben Ho"
             },

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Asian Dishes</title>
-    <link href="https://shinggo9000.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://shinggo9000.github.io/gh-pages" />
-    <updated>2020-05-28T21:59:15+02:00</updated>
+    <link href="https://shinggo8000.github.io/Publii/feed.xml" rel="self" />
+    <link href="https://shinggo8000.github.io/Publii" />
+    <updated>2020-05-28T22:00:20+02:00</updated>
     <author>
         <name>Ben Ho</name>
     </author>
-    <id>https://shinggo9000.github.io/gh-pages</id>
+    <id>https://shinggo8000.github.io/Publii</id>
 
     <entry>
         <title>This is first post</title>
         <author>
             <name>Ben Ho</name>
         </author>
-        <link href="https://shinggo9000.github.io/gh-pages/this-is-first-post.html"/>
-        <id>https://shinggo9000.github.io/gh-pages/this-is-first-post.html</id>
+        <link href="https://shinggo8000.github.io/Publii/this-is-first-post.html"/>
+        <id>https://shinggo8000.github.io/Publii/this-is-first-post.html</id>
             <category term="efg"/>
             <category term="abc"/>
 
         <updated>2020-05-28T21:28:13+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shinggo9000.github.io/gh-pages/media/posts/1/bonfire-burning-burnt-campfire-266604-1.jpg" alt="" />
-                    [{"id":1590694047118,"type":"publii-image","content":{"image":"https://shinggo9000.github.io/gh-pages/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg","imageHeight":535,"imageWidth":720,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590694062769,"type":"publii-paragraph","content":"This is a first post! Good!","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                        <img src="https://shinggo8000.github.io/Publii/media/posts/1/bonfire-burning-burnt-campfire-266604-1.jpg" alt="" />
+                    [{"id":1590694047118,"type":"publii-image","content":{"image":"https://shinggo8000.github.io/Publii/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg","imageHeight":535,"imageWidth":720,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590694062769,"type":"publii-paragraph","content":"This is a first post! Good!","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://shinggo9000.github.io/gh-pages/media/posts/1/bonfire-burning-burnt-campfire-266604-1.jpg" alt="" />
-                [{"id":1590694047118,"type":"publii-image","content":{"image":"https://shinggo9000.github.io/gh-pages/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg","imageHeight":535,"imageWidth":720,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590694062769,"type":"publii-paragraph","content":"This is a first post! Good!","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                    <img src="https://shinggo8000.github.io/Publii/media/posts/1/bonfire-burning-burnt-campfire-266604-1.jpg" alt="" />
+                [{"id":1590694047118,"type":"publii-image","content":{"image":"https://shinggo8000.github.io/Publii/media/posts/1/18485258_518075661916031_4299579750564425894_n.jpg","imageHeight":535,"imageWidth":720,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590694062769,"type":"publii-paragraph","content":"This is a first post! Good!","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
