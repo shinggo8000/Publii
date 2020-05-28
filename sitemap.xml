@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://shinggo9000.github.io/gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://shinggo9000.github.io/gh-pages/</loc>
+</url>
+<url>
+<loc>https://shinggo9000.github.io/gh-pages/this-is-first-post.html</loc>
+<lastmod>2020-05-28T21:28:13+02:00</lastmod>
+<image:image>
+<image:loc>https://shinggo9000.github.io/gh-pages/media\posts\1/bonfire-burning-burnt-campfire-266604-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
